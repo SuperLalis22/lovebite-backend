@@ -2,9 +2,9 @@
   "name": "lovebite-backend",
   "version": "1.0.0",
   "description": "LoveBite AI Backend",
-  "main": "src/index.js",
-  "scripts": {
-    "start": "node src/index.js",
+  "main": "backend/src/index.js",
+"scripts": {
+  "start": "node backend/src/index.js",
     "dev": "node src/index.js"
   },
   "dependencies": {
