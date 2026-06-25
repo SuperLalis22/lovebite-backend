@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "LoveBite AI Backend",
   "main": "backend/src/index.js",
-"scripts": {
+  "scripts": {
   "start": "node backend/src/index.js",
     "dev": "node src/index.js"
   },
